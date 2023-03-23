@@ -26,6 +26,7 @@ public class ToDo {
 			-give player item
 			-update shop DB, as given
 			- log to console and a seperate log file that item/perk has been given (log date, time, item given, player name, uuid, and IP
+			- also log this to discord....
 
 
 	 */
