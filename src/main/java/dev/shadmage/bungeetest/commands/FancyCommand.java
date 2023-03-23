@@ -14,7 +14,7 @@ import java.util.List;
 
 @AutoRegister
 public final class FancyCommand extends SimpleCommand {
-	protected FancyCommand() {
+	public FancyCommand() {
 		super("ddbungee"); // the command that is types by a player
 
 		setMinArguments(1);
